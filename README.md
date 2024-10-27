@@ -2,6 +2,8 @@
 
 This Arduino circuit reads message from **serial** port and translates it into morse code while also transmitting the code. Additionaly, the result is being displayed on LCD screen.
 
+Link to the video: https://drive.google.com/file/d/19Em94YCpJ0k_Wb54G4Z-mufymFDNv7G4/view?usp=sharing
+
 ## Used components
 
 * **Arduino Uno R3** board
